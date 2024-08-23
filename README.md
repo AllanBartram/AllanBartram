@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AllanBartram
-- 👀 I’m interested in learning to code and software development. 
+- 👋 Hi, Hello World, I’m @AllanBartram
+- 👀 I’m interested in learning to code and software development
 - 🌱 I’m currently learning coding and I have recently passed Level 2 in Cyber Security
 - 💞️ I’m looking to collaborate on future goals
 - 📫 How to reach me allanbartram@outlook.com
