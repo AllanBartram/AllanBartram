@@ -31,7 +31,7 @@ Tools: Git, GitHub, VS Code
 🌱 What I’m Working On
 
 Building responsive and dynamic web applications
-Enhancing my cybersecurity skills through practical projects
+enhancing my cybersecurity skills through practical projects
 Contributing to open-source projects
 
 📫 How to Reach Me
